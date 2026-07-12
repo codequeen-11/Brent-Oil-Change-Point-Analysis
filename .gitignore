@@ -24,10 +24,10 @@ wheels/
 *.egg
 .env
 # Data files (too large for git)
-data/
+# data/
 data/raw/
 data/processed/
-*.csv
+# *.csv
 *.parquet
 *.pkl
 *.joblib

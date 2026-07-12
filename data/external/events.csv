@@ -1,0 +1,21 @@
+Date,Event,Category,Region,Description,Expected_Impact
+1987-12-08,OPEC Production Agreement,OPEC,Global,OPEC agreed on production quotas to stabilize oil prices,Increase
+1990-08-02,Iraq Invades Kuwait,Conflict,Middle East,Iraq's invasion of Kuwait disrupted global oil supply,Sharp Increase
+1991-01-17,Operation Desert Storm,Conflict,Middle East,Coalition military operation during the Gulf War increased market uncertainty,High Volatility
+1997-07-02,Asian Financial Crisis,Economic,Asia,Financial crisis reduced oil demand across Asian economies,Decrease
+1998-03-30,OPEC Production Cuts,OPEC,Global,OPEC announced coordinated production cuts to support oil prices,Increase
+2001-09-11,September 11 Attacks,Geopolitical,United States,Terrorist attacks caused significant financial market uncertainty,High Volatility
+2003-03-20,Iraq War Begins,Conflict,Middle East,Military intervention raised concerns over oil production and exports,Increase
+2005-08-29,Hurricane Katrina,Natural Disaster,United States,Major hurricane disrupted Gulf of Mexico oil production,Increase
+2008-09-15,Global Financial Crisis,Economic,Global,Collapse of Lehman Brothers triggered a global recession and reduced oil demand,Sharp Decrease
+2010-12-17,Arab Spring Begins,Political,Middle East,Political instability spread across oil-producing countries,Increase
+2011-02-15,Libyan Civil War,Conflict,Africa,Conflict disrupted Libyan oil exports,Increase
+2014-11-27,OPEC Maintains Production,OPEC,Global,OPEC chose not to reduce production despite oversupply,Sharp Decrease
+2015-07-14,Iran Nuclear Agreement,Sanctions,Middle East,Agreement increased expectations of additional Iranian oil exports,Decrease
+2016-11-30,OPEC+ Production Cut Agreement,OPEC,Global,OPEC and partners agreed to coordinated production cuts,Increase
+2018-05-08,US Withdraws from Iran Nuclear Deal,Sanctions,Middle East,Renewed sanctions raised concerns about oil supply,Increase
+2020-03-11,COVID-19 Declared Pandemic,Pandemic,Global,Global demand for oil collapsed because of lockdowns,Sharp Decrease
+2020-04-12,Historic OPEC+ Production Cut,OPEC,Global,Largest coordinated production cut in history to stabilize prices,Increase
+2021-11-26,Omicron Variant Identified,Pandemic,Global,New COVID-19 variant increased uncertainty about future oil demand,Decrease
+2022-02-24,Russia Invades Ukraine,Conflict,Europe,War disrupted global energy markets and supply chains,Sharp Increase
+2022-09-05,OPEC+ Production Cut,OPEC,Global,OPEC+ announced production cuts to support oil prices,Increase
